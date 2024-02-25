@@ -7,11 +7,3 @@ Program Project Based Internship kolaborasi Rakamin Academy dan Kimia Farma Big 
 ## Tugas Akhir
 
 Tugas akhir yang harus dibuat pada program ini adalah membuat dashboard dari data penjualan salah satu produk Kimia Farma dalam satu tahun dari data mentah yang telah disediakan.
-
-## Tahapan Pengerjaan
-
-1. Unduh dokumen challenge yang terdapat pada sumber daya yang dapat digunakan.
-2. Bacalah dengan seksama dokumen tersebut.
-3. Kerjakan tugas berdasarkan instruksi yang diberikan.
-4. Kumpulkan final task dengan template portofolio yang sudah diberikan.
-5. Upload file template portofolio yang sudah Anda isi dengan hasil pengerjaan final task Anda.
